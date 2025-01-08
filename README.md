@@ -1,2 +1,2 @@
-# Computer-Software-Assurance-as-Code
-Computer Software Assurance as Code
+# Computer-Software-Assurance
+Computer Software Assuranc
